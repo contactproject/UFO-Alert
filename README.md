@@ -2,18 +2,14 @@
 A Proposal To Contact UAPs by Radio
 After more than 70 years the US Government recently confirmed the existence of UAPs/UFOs. There is a possibility that some of these objects or phenomena are not of earthly origin. To find out where they are from we want to try and talk to them by radio,
 
-DESCRIPTION OF THE “CONTACT APP”
+DESCRIPTION OF THE “CONTACT APP”:
 Realtime data feed about in progress UAP sightings
 
 With the app named “UFO Alert!” (or “Contact Project App”) the Contact Initiative wants to engage with others who also think that they aren’t alone in the universe.
-We, the Contact Initiative, believe that there is a non-zero chance that UFOs/UAPs have an extraterrestrial origin.
-In the past we may have seen something unexplained in the sky and wondered what it was… We never found out about it because no one told us and we didn’t have the tool to tell us.
-
-We are the casual UFO/UAP witness.
-We are 46 million people in the USA alone.
+We, the Contact Initiative, believe that there is a non-zero chance that UFOs/UAPs have an extraterrestrial origin. In the past we may have seen something unexplained in the sky and wondered what it was… We never found out about it because no one told us and we didn’t have the tool to tell us.
 
 The UFO Alert! app
-An app to identify the identifiable and investigate the unknown.
+An app tool to identify the identifiable and investigate the unknown.
 UFO Alert! is an open source UFO/UAP real time reporting tool. Every user who downloads the app is a “Search partner”.
 
 Search partners can be anyone with a smartphone, radio operators, videographers, gigapixel camera operators, Unistellar telescope operators and (passive) radar operators, which are a subset of radio HAM enthusiasts and people that are close enough to have visual or audible contact with an UAP/UFO.
@@ -63,12 +59,23 @@ An AI algorithm will analyze live reports coming in in real time to determine if
 To motivate the public to take part in this search,
 prizes can be given for successful detections of UAPs, staggered by evidence weight:
 
-less important:
-1. confirmed UAP pictures, 2. video, 3. radar images,
+less important: 
+1. confirmed UAP pictures, 
+2. video, 
+3. radar images,
 
 more important:
-4. reception of radio emissions,  5. verifiable conversation with ETI (CETI), 6. physical alien artifact, 7. actual landing of UAP with ETI.
+4. reception of radio emissions,  
+5. verifiable conversation with ETI (CETI), 
+6. physical alien artifact, 
+7. actual landing of UAP with ETI.
 
 Alternative to cash prizes, credits may be given, they could be collectible non-fungible tokens (NFT’s), whose value is based on their desirability.
 
 The whole endeavor (and prize money) will be funded by private enterprise through the “Alien Marketplace” advertising space. This marketplace is accessed through the Contact app. To filter out fakes and false identifications AI algorithms and volunteers evaluate the results. The volunteers may be paid cash or NFT tokens that can be traded on the Alien Marketplace.
+
+The flowchart for the "UFO Alert!" app:
+![UFO APP FLOWCHART v1](https://user-images.githubusercontent.com/95277651/144097881-8f19afd7-0c83-4128-bcc7-2b427b9e3c68.jpg)
+[UFO APP FLOWCHART v1.pdf](https://github.com/contactproject/UFO-Alert/files/7627624/UFO.APP.FLOWCHART.v1.pdf)
+
+More details on this are on: https://contactproject.org/9-description-of-the-contact-app/
